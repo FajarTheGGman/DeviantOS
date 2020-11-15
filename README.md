@@ -16,3 +16,52 @@
 [Note] if you want to run with dockerfile just type : "sudo docker build"
 
 </pre>
+
+# [ Installed Tools ]
+
+<pre>
+[ Web Exploit]
+- nmap
+- Sqlmap
+- Gobuster
+- Database-Searcher
+- Sqlmap
+- RED_HAWK
+- Striker
+- Sqlmap
+- Sqlbot
+- Admin_Finder
+- ReverseIP
+- Dirscan
+
+[ Cryptography ]
+- hashcat
+- Decrypt
+
+[ Other ]
+- F-Tools V2
+- Take All Repo
+- Theonionguy
+
+[ Exploit ]
+- Metasploit-Framework
+- Evil Droid
+- Exploitdb
+
+[ Tracking ]
+- knowyourself
+- PhoneSpoofing
+- Phoneinfoga
+
+[ Forensics ]
+- SocialMedia
+- apktool
+- radare2
+
+[ Password Attack ]
+- Bewgor
+- hydra
+
+[ Firewall ]
+- Ufw
+</pre>
