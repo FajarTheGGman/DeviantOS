@@ -7,6 +7,8 @@
 
 # How To Install ?
 <pre>
+[!] Make sure you're already install docker
+
 1.clone this repositories
 2.unzip the Deviant.7z
 3.open Deviant folder
