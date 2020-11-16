@@ -15,7 +15,7 @@
 4.and type "sudo docker run load -i deviants.tar"
 5.after complete load image type "sudo docker run -it deviant"
 
-[Note] if you want to run with dockerfile just type : "sudo docker build"
+[Note] if you want to run with dockerfile just type : "sudo docker build ./"
 
 </pre>
 
